@@ -7,3 +7,5 @@ The end of the supply chain is where promises meet reality. A delivery that arri
 - A fully functional, end-to-end sentiment analysis system capable of processing and analyzing large volumes of customer feedback in real time.
 - Automated identification of key drivers of customer satisfaction and dissatisfaction, enabling targeted improvements in products and services
 - A scalable and multilingual system capable of adapting to growing data volumes and expanding market operations.
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/bda62f6d-9e26-4c67-8182-1d69885438fc" />
